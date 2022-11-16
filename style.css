@@ -1,0 +1,64 @@
+
+
+.father{
+    color:red ;
+    text-align: center;
+}
+
+
+legend{
+        background-color: aqua;
+        padding: 8px;
+        border-radius: 15px;
+        font-weight: bold;
+}
+
+input{
+    margin: 4px 0px;
+    padding: 10px;
+    font-size: 0.1 em;
+}
+.parent{
+    width:30%;
+    margin:auto  ;
+}
+.third{
+    text-align: center;
+}
+input.email{
+    background-image: url(https://mpng.subpng.com/20190329/fgx/kisspng-scalable-vector-graphics-portable-network-graphics-5c9e3d4912d466.4763419815538742490771.jpg);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 15px 10px 50px;
+}
+input.password{
+    background-image: url(https://iconarchive.com/download/i91631/icons8/windows-8/Security-Password-2.ico);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding: 10px 17px 10px 50px;
+}
+button{
+    padding: 10px;
+    margin:5px;
+    font-size: 1em;
+    border: none ;
+    background-color: purple;
+    border-radius: 8px;
+}
+.first{
+    width: 40%;
+    height:40px;
+    background-color: red;
+    float: left;
+}
+.second{
+    width: 15%;
+    height:40px;
+    background-color: purple;
+    float: left;
+}
+
+
+    
+
+   
